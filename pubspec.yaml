@@ -1,6 +1,6 @@
 name: tesseract_latest
 description: Flutter plugin for tesseract OCR engine. Supports Null Safety. Currently supports Android only. IOS in progress.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/anuj171100/tesseract_latest
 # publish_to: 'none'
 
@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
-  path_provider: ^2.0.9
-  path: ^1.8.0
+  plugin_platform_interface: ^2.1.2
+  path_provider: ^2.0.11
+  path:
 
 
 dev_dependencies:
