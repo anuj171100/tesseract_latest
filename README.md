@@ -1,6 +1,6 @@
 # tesseract_latest
 
-A new Flutter plugin project.
+Flutter plugin for tesseract OCR engine. Supports Null Safety.
 
 ## Getting Started
 
